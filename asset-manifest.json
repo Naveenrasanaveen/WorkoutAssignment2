@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app/static/css/main.189b0161.css",
+    "main.js": "/app/static/js/main.15ab5307.js",
+    "static/media/image 16.png": "/app/static/media/image 16.158a7a07aac6d06678e0.png",
+    "static/media/—Pngtree—bar graph element_1529962.png": "/app/static/media/—Pngtree—bar graph element_1529962.297b7758b5aa4e8049b8.png",
+    "static/media/image 13.png": "/app/static/media/image 13.3913e0e9cc80a2666d6e.png",
+    "index.html": "/app/index.html",
+    "main.189b0161.css.map": "/app/static/css/main.189b0161.css.map",
+    "main.15ab5307.js.map": "/app/static/js/main.15ab5307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189b0161.css",
+    "static/js/main.15ab5307.js"
+  ]
+}
